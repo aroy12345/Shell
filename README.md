@@ -1,5 +1,4 @@
-Ethan Yu 53120446 Aryan Roy 48621473
-
+Aryan Roy & Ethan Yu
 Source File: penn-shell.c
 
 **Functions**
