@@ -1,7 +1,6 @@
 ######################################################################
 #
-#                       Author: Hannah Pan
-#                       Date:   01/31/2021
+#              
 #
 # The autograder will run the following command to build the program:
 #
